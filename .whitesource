@@ -3,7 +3,7 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": ["main","dev","staging","release"]
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
@@ -29,6 +29,6 @@
     "enableRemediation": false,
     "incrementalScan": true,
     "snippetSize": 0,
-    "baseBranches": []
+    "baseBranches": ["main","dev","staging","release"]
   }
 }
